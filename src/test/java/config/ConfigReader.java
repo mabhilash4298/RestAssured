@@ -14,7 +14,7 @@ public class ConfigReader {
             props.load(fis);
         } catch (IOException e) {
             System.out.println("Adding the Details");
-            System.out.println("Test")
+
             throw new RuntimeException("Failed to load config.properties");
 
         }
