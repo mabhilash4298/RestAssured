@@ -1,0 +1,102 @@
+[
+    {
+        "itemId": 1,
+        "category": {
+            "categoryId": 1,
+            "category": "Mobile"
+        },
+        "name": "SAMSUNG",
+        "price": 50.0,
+        "discount": 8.0,
+        "description": null,
+        "users": {
+            "id": 3,
+            "userName": "RobertKumar3@Test",
+            "passWord": "$2a$12$zB9dGWTmB29EdquX1/IGku3/ulGDs6gmDe2ofAyPITZD2J8L6n6YW",
+            "firstName": "Robert",
+            "lastName": "Kumar",
+            "userType": "SELLER",
+            "activeRef": true
+        }
+    },
+    {
+        "itemId": 2,
+        "category": {
+            "categoryId": 1,
+            "category": "Mobile"
+        },
+        "name": "MI",
+        "price": 15.0,
+        "discount": 8.0,
+        "description": null,
+        "users": {
+            "id": 3,
+            "userName": "RobertKumar3@Test",
+            "passWord": "$2a$12$zB9dGWTmB29EdquX1/IGku3/ulGDs6gmDe2ofAyPITZD2J8L6n6YW",
+            "firstName": "Robert",
+            "lastName": "Kumar",
+            "userType": "SELLER",
+            "activeRef": true
+        }
+    },
+    {
+        "itemId": 3,
+        "category": {
+            "categoryId": 1,
+            "category": "Mobile"
+        },
+        "name": "NOKIA",
+        "price": 123.0,
+        "discount": 8.0,
+        "description": null,
+        "users": {
+            "id": 1,
+            "userName": "AbhilashKumar3@Test",
+            "passWord": "$2a$12$Rh2N63Cz9jC9whrSCPS70uWRKpw13SwaJCrXT/WkCwtDwaryGBMn.",
+            "firstName": "Abhilash",
+            "lastName": "Kumar",
+            "userType": "Admin",
+            "activeRef": true
+        }
+    },
+    {
+        "itemId": 52,
+        "category": {
+            "categoryId": 1,
+            "category": "Mobile"
+        },
+        "name": "MI",
+        "price": 15.0,
+        "discount": 8.0,
+        "description": null,
+        "users": {
+            "id": 3,
+            "userName": "RobertKumar3@Test",
+            "passWord": "$2a$12$zB9dGWTmB29EdquX1/IGku3/ulGDs6gmDe2ofAyPITZD2J8L6n6YW",
+            "firstName": "Robert",
+            "lastName": "Kumar",
+            "userType": "SELLER",
+            "activeRef": true
+        }
+    },
+    {
+        "itemId": 102,
+        "category": {
+            "categoryId": 1,
+            "category": "Mobile"
+        },
+        "name": "MICRO",
+        "price": 15.0,
+        "discount": 8.0,
+        "description": null,
+        "users": {
+            "id": 3,
+            "userName": "RobertKumar3@Test",
+            "passWord": "$2a$12$zB9dGWTmB29EdquX1/IGku3/ulGDs6gmDe2ofAyPITZD2J8L6n6YW",
+            "firstName": "Robert",
+            "lastName": "Kumar",
+            "userType": "SELLER",
+            "activeRef": true
+        }
+    }
+]
