@@ -35,7 +35,7 @@ public class UserSteps {
     @Given("the API base URI is set")
     public void setApiBaseUri() throws IOException, ClassNotFoundException {
         ObjectMapper mapper = new ObjectMapper();
-        System.out.println("Test")
+        System.out.println("Test");
         // Create or read JSON root node
         JsonNode rootNode = mapper.readTree("{\"name\":\"John\"}");
         ObjectNode objectNode = (ObjectNode) rootNode;
